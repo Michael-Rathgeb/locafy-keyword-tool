@@ -17,6 +17,10 @@ export const metadata: Metadata = {
   title: "Locafy Keyword Tool — Local SEO Keyword Research",
   description:
     "Discover high-value keywords for local SEO. Get search volume, difficulty, and trends for any business type and location.",
+  icons: {
+    icon: "/favicon.ico",
+    apple: "/icon-192.png",
+  },
 };
 
 export default function RootLayout({
